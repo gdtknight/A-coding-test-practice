@@ -83,7 +83,7 @@ public class DartGame {
   }
 
   public static void main(String[] args) {
-    String str = "1D2S#10S";
+    String str = "1D2S3T*";
     System.out.println(solution(str));
   }
 }
